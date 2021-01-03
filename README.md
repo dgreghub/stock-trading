@@ -4,6 +4,7 @@
  [![](https://img.shields.io/badge/python-3.6+-green.svg)](https://www.python.org/download/releases/3.6.0/)
 # 이베스트 Reference
 증권사 API를 이용한 주식 정보 수집 <p>
+xingAPI를 파이썬 코드로 호출하기 위한 기본 코드 작성 (추후 확장성을 위해 Java 로도 확인 필요)<p>
 https://www.ebestsec.co.kr/apiguide/guide.jsp
  <p>
 Laguage : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 

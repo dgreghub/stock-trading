@@ -50,6 +50,7 @@ if __name__ == '__main__':
                     kwargs={"code_list":codes, "date":day})
     scheduler.start()
     """
+    test commit 2021_01_03
     while True:
         print("waiting...", datetime.now())
         time.sleep(1)

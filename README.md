@@ -2,7 +2,8 @@
 
 # stock-lab
  [![](https://img.shields.io/badge/python-3.6+-green.svg)](https://www.python.org/download/releases/3.6.0/)
- https://www.ebestsec.co.kr/apiguide/guide.jsp
+# 이베스트 Reference
+https://www.ebestsec.co.kr/apiguide/guide.jsp
  <p>
 Laguage : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 </p>

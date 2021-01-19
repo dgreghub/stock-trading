@@ -7,9 +7,14 @@
 xingAPI를 파이썬 코드로 호출하기 위한 기본 코드 작성 (추후 확장성을 위해 Java 로도 확인 필요)<p>
 https://www.ebestsec.co.kr/apiguide/guide.jsp
  
- 
+
  # Tomcat, 빌드/배포 with Gradle
  https://youtu.be/-4nLceOC-z4
+ 
+ # Gradle Task
+ - makedist : 배포전에 dist 디렉터리에 최종 빌드
+ - dist : makedist를 실행하고 dist 디렉터리를 서버로 배포. dist 후에는 서버에서 애플리케이션이 reload 된다.
+ - distweb : 웹 리소스만 배포할때 사용
  
  <p>
 Laguage : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
